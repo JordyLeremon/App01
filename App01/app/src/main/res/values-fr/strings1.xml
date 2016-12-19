@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_text">Commencons</string>
+    <string name="hello_world">Bienvenue</string>
+    <string name="app_name">Appli</string>
+</resources>

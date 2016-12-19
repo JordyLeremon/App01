@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App01</string>
+    <string name="button_text">Click</string>
+    <string name="hello_world">Hello World</string>
+    <string name="Search">recherche</string>
+    <string name="Help">Aide</string>
+
+</resources>
